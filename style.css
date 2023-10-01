@@ -10,7 +10,9 @@ body {
 .container {
   text-align: center;
 }
-
+div{
+  display: block;
+}
 .progress-container {
   width: 500px;
   display: flex;
